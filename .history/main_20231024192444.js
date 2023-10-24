@@ -6,5 +6,4 @@ for(const i=10;i<=20;i++){
         numberStrings+=',';
     }
 }
-console.log(numberStrings);
 //
